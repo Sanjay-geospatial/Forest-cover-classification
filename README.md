@@ -48,9 +48,9 @@ These thresholds can be adjusted based on region-specific forest structure.
 
 ---
 
-Loss: MSELoss,
-Metric: R² score,
-Optimizer: Adam
+- Loss: MSELoss,
+- Metric: R² score,
+- Optimizer: Adam
 
 ---
 
