@@ -59,7 +59,7 @@ These thresholds can be adjusted based on region-specific forest structure.
 - Optimizer: Adam
 
 ---
-📓 Note
+📓 Note:
 To fully view the visualizations, outputs, and interactive elements, please download the main.ipynb notebook and open it locally in Jupyter Notebook or JupyterLab. Some features may not render properly on GitHub’s web preview.
 
 
