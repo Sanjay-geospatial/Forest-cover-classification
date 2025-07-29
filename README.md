@@ -1,5 +1,7 @@
 # Forest Cover Classification using Remote Sensing and Deep Learning
 
+<img width="1993" height="1580" alt="Image" src="https://github.com/user-attachments/assets/2c967b3d-ced2-4681-a03c-91a3f01aa3d9" />
+
 This project implements a deep learning model in PyTorch to classify forest cover types using multi-source satellite data — Landsat, ALOS PALSAR, and GEDI. The goal is to classify regions into **Primary Forest**, **Secondary Forest**, and **Others** based on tree cover and canopy height predictions.
 
 ---
