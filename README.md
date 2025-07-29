@@ -1,7 +1,7 @@
 # Forest Cover Classification using Remote Sensing and Deep Learning
 
 <p align="center">
-  <img src="images/Forest classification.png" width="45%" />
+  <img src="images/Forest Classification.png" width="45%" />
   <img src="images/Primary forest area.png" width="45%" />
 </p>
 
