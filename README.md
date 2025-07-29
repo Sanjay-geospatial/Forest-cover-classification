@@ -15,7 +15,7 @@ This project implements a deep learning model in PyTorch to classify forest cove
 - **ALOS PALSAR** (Radar Imagery)
 - **GEDI L2B** (Canopy height and tree cover from GEDI LiDAR)
 
-All satellite data were preprocessed into consistent spatial resolution and aligned using a common grid system (e.g., 10m or 30m).
+All satellite data were preprocessed into consistent spatial resolution and aligned using a common grid system (30m).
 
 ---
 
