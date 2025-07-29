@@ -11,6 +11,7 @@ This project implements a deep learning model in PyTorch to classify forest cove
 
 ## 📦 Data Sources
 
+- **This project uses cloud-native geospatial data access via the platforms like STAC API and NASA's Earthaccess**
 - **Landsat 8/9** (Optical imagery)
 - **ALOS PALSAR** (Radar Imagery)
 - **GEDI L2B** (Canopy height and tree cover from GEDI LiDAR)
